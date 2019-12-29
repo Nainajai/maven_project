@@ -7,6 +7,10 @@
 		Name <input type="text" />
 	</p>
 	<p>
+		phone number <input type ="Number" />
+	</p>
+	
+	<p>
 		<input type="button" value="Click Me" onclick="alert('hi');" />
 	</p>
 
